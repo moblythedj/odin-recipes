@@ -1,0 +1,12 @@
+{
+  "name": "odin-recipes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:moblythedj/odin-recipes.git",
+  "author": "moblythedj <224652542+moblythedj@users.noreply.github.com>",
+  "license": "MIT",
+
+  "scripts": {
+    "start": "index.js"
+  }
+}
